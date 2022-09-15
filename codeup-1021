@@ -24,7 +24,8 @@ Informatics
 Informatics
 
 제출 답안
-```package Text;
+```shell
+package Text;
 
 import java.util.Scanner;
 

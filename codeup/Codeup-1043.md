@@ -57,9 +57,6 @@ public class Example {
 		long c = a%b;
 		
 		System.out.println(c);
-		
-		
-		
 	}
 
 }
